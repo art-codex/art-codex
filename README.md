@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dev-py.ir/logo.png" alt="Art Codex Logo" width="180">
+  <img src="https://github.com/art-codex/dev-py.ir/blob/main/logo-artcodex.png" alt="Art Codex Logo" width="180">
 </p>
 
 <h1 align="center">Art Codex</h1>
