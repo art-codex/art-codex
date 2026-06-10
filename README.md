@@ -61,11 +61,18 @@
 
 🔗 https://dev-py.ir/project
 
-### 🌍 Dev-Py
 
-وب‌سایت رسمی معرفی خدمات و پروژه‌ها
+### 🌍 Music Website
 
-🔗 https://dev-py.ir
+وبسایت موسیقی با قالب اختصاصی
+🔗 https://https://github.com/art-codex/
+
+
+### 🌍 Internet Speed
+نمایش سرعت اینترنت در تسک‌بار ویندوز
+
+🔗 https://https://github.com/art-codex/
+
 
 ---
 
